@@ -1,1 +1,1 @@
-# giao-di-n-tin-t-c-goocha
+# giao-dien-tin-tuc-goocha
