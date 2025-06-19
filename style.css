@@ -87,9 +87,16 @@ html {
   position: relative;
 }
 
+
 /* Hiển thị submenu */
 .menu-item {
   position: relative;
+}
+
+.nav-arrow {
+   width: 25px;
+  height: 40px;
+  vertical-align: middle;
 }
 
 .submenu {
